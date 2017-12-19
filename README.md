@@ -2,7 +2,7 @@
 dabari is a framework raging from gui library to network for building crossplatform application.
 
 
-Platform supported by now : windows , android 
+Platforms supported by now : windows , android 
 
 simple usage :
            
@@ -28,9 +28,9 @@ simple usage :
 
 Demo :
 
- Simple texteditor :
-    
- Load Image from the web and show it :
+  Simple texteditor :
+  
+  Load Image from the web and show it :
 
 
 
