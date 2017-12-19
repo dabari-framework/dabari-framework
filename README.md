@@ -6,7 +6,7 @@ Platform supported by now : windows , android
 
 simple usage :
     
-    // create application which will start event loop and hold all windows
+          // create application which will start event loop and hold all windows
 	   App myapp;
 
 	   // create on window with default params
@@ -21,8 +21,8 @@ simple usage :
 	   // add it to the root widget of the window
 	   win->GetRootWidget()->AddWidget(widget);
 
-   	// start event loop 
-   	myapp.Run();
+   	   // start event loop 
+   	   myapp.Run();
 
 
 
