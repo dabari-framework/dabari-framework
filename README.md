@@ -4,7 +4,7 @@ dabari is a framework raging from gui library to network for building crossplatf
 
 Platforms supported by now : windows , android 
 
-simple usage :
+# simple usage :
            
 	   // create the application that will start the event loop and hold all windows
 	   App myapp;
@@ -26,12 +26,14 @@ simple usage :
 
 
 
-Demo :
+# some demos :
 
   Simple texteditor :
   
   Load Image from the web and show it :
 
-
+# build and documentation :
 How to build and advanced usage : https://github.com/dabari-framework/dabari-framework/wiki for documentation. 
+
+doxygen docu :
 
