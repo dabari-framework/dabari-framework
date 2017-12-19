@@ -6,10 +6,10 @@ Platform supported by now : windows , android
 
 simple usage :
            
-	   // create application which will start event loop and hold all windows
+	   // create the application that will start the event loop and hold all windows
 	   App myapp;
 
-	   // create on window with default params
+	   // create one window with default params
 	   Window* win = Window::New() ;
 
 	   // add it to the application
