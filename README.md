@@ -5,8 +5,8 @@ dabari is a framework raging from gui library to network for building crossplatf
 Platform supported by now : windows , android 
 
 simple usage :
-    
-          // create application which will start event loop and hold all windows
+           
+	   // create application which will start event loop and hold all windows
 	   App myapp;
 
 	   // create on window with default params
