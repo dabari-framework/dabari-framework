@@ -35,5 +35,5 @@ Platforms supported by now : windows , android
 # build and documentation :
 How to build and advanced usage : https://github.com/dabari-framework/dabari-framework/wiki for documentation. 
 
-doxygen docu :
+doxygen documentation :
 
