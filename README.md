@@ -1,31 +1,17 @@
 # dabari-framework
-dabari is a framework raging from gui library to network for building crossplatform application.
+dabari is a framework raging from gui to network for building crossplatform application.
 
 
-Platform supported by now :
-windows , android 
-
-
+Platform supported by now : windows , android 
 
 
 
+Demo :
 
-
-Exemple :
-Simple texteditor :
-Load Image from the web and show it :
-
-
-
+ Simple texteditor :
+    
+ Load Image from the web and show it :
 
 
 
-
-Documentation in progress ...
-
-
-
-
-
-
-Copyright 2017 Galledou Ahmedou
+Copyright © 2017 Galledou Ahmedou
