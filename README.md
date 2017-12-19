@@ -33,5 +33,5 @@ Demo :
   Load Image from the web and show it :
 
 
-
+How to build and advanced usage : https://github.com/dabari-framework/dabari-framework/wiki for documentation. 
 
